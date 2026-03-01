@@ -1,3 +1,5 @@
+export const dynamic = "force-static";
+
 import './globals.css';
 
 export const metadata = {
@@ -12,3 +14,4 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
